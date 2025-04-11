@@ -1,0 +1,14 @@
+Notes: 
+#df_1.isnull().sum()
+#df_1.drop_duplicates(inplace=True)
+#print(df_1.head())
+
+#sns.histplot(data=df_1, x='Distance', bins=81, kde=True, color='blue')
+#plt.title('Built Year  Distribution')
+#sns.histplot(data=df_1, x='YearBuilt', bins=2, kde=True, color='blue')
+#sns.boxplot(data=df_1, x='YearBuilt', y='Price', color='yellow')
+#sns.countplot(data=df_1, x='YearBuilt', color='blue')
+#plt.figure(figsize=(100, 50));
+#sns.pairplot(df_1,corner=False, hue='YearBuilt', palette='husl', diag_kind='kde', markers='o', height=2.5, aspect=1.5)
+#plt.title('Pairplot of YearBuilt and Price')
+#sns.heatmap(df_1.corr(), annot=True, cmap='coolwarm')
