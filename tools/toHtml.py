@@ -15,9 +15,10 @@ import os
 #     f.write(html_data)
 
 # project ML notebook path
-notebook_path = "D:\\0-AI-ML\\ai-ml\\ML\\Project\\AIML_ML_Project_full_code_notebook.ipynb"
+#notebook_path = "D:\\0-AI-ML\\ai-ml\\ML\\EasyVisa-Project2\\EasyVisa_Full_Code_Notebook copy.ipynb"
+notebook_path = "D:\\OneDrive\\00-Ml-course\\ai-ml\\ML\\EasyVisa-Project2\\EasyVisa_Full_Code_Notebook copy.ipynb"
 # project HTML file path
-html_file_path = "D:\\0-AI-ML\\ai-ml\\ML\\Project\\AIML_ML_Project_full_code_notebook.html"
+html_file_path = "D:\\OneDrive\\00-Ml-course\\ai-ml\\ML\\EasyVisa-Project2\\EasyVisa_Full_Code_Notebook.html"
 # Load the notebook
 with open(notebook_path, "r", encoding="utf-8") as f:
     notebook = read(f, as_version=4)    
