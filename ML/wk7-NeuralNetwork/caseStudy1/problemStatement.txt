@@ -1,0 +1,28 @@
+Context
+The world is developing rapidly and continuously looking for the best knowledge and experience among people. This motivates people all around the world to stand out in their jobs and look for higher degrees that can help them in improving their skills and knowledge. As a result, the number of students applying for Master's programs has increased substantially.
+
+The current admission dataset was created for the prediction of admissions into the University of California, Los Angeles (UCLA). It was built to help students in shortlisting universities based on their profiles. The predicted output gives them a fair idea about their chances of getting accepted.
+
+Objective:
+The data-set aims to answer the following key questions:
+
+What are the different factors that influence the admission of an individual/student?
+
+Is there a good predictive model to predict a student's chances of admission to UCLA? What does the performance assessment look like for such a model?
+
+Attribute Information:
+The dataset contains several features which are considered important during the application for Master's Programs. The features included are:
+
+GRE Scores: (out of 340)
+TOEFL Scores: (out of 120)
+University Rating: It indicates the Bachelor University ranking (out of 5)
+Statement of Purpose Strength: (out of 5)
+Letter of Recommendation Strength: (out of 5)
+Undergraduate GPA: (out of 10)
+Research Experience: (either 0 or 1)
+Chance of Admit: (ranging from 0 to 1)
+Learning Outcomes:
+Exploratory Data Analysis
+Preparing the data to train a model
+Training the data using the Neural Network model
+Model evaluation

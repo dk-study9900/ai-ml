@@ -1,0 +1,47 @@
+1) What is a Neural Network?
+Neural Networks replicate the way humans learn, inspired by how the neurons in our brains fire, only much simpler.
+
+The most common Neural Networks consist of three network layers:
+
+An input layer
+A hidden layer (this is the most important layer where feature extraction takes place, and adjustments are made to train faster and function better)
+An output layer
+Each sheet contains neurons called “nodes,” performing various operations. Neural Networks are used in deep learning algorithms like CNN, RNN, GAN, etc.
+
+ 
+
+2) What are hyperparameters?
+With neural networks, you’re usually working with hyperparameters once the data is formatted correctly. A hyperparameter is a parameter whose value is set before the learning process begins. It determines how a network is trained and the structure of the network (such as the number of hidden units, the learning rate, epochs, etc.).
+
+ 
+
+3) How to install TensorFlow on Windows or Mac?
+Open the Anaconda Prompt (on Windows) or Terminal (on Mac) and run the following code
+pip install tensorflow --user 
+Open the Jupyter Notebook and refresh the page. Now, check the version of the TensorFlow by importing it with the following code in the notebook:
+import tensorflow as tf
+print(tf.__version__)
+ 
+
+4) What are activation functions?
+In simple terms, an artificial neuron calculates the ‘weighted sum’ of its inputs and adds a bias.
+
+Now the value of net input can be anything from -∞ to +∞. The neuron doesn’t know how to bound to value and thus is not able to decide the firing pattern. Thus the activation function is an important part of an artificial neural network. They decide whether a neuron should be activated or not. Thus it bounds the value of the net input.
+
+The activation function is a non-linear transformation that we perform on the input before sending it to the next layer of neurons or finalizing it as output.
+
+ 
+
+5) What are the Softmax and ReLU functions?
+Softmax is an activation function that generates the output between zero and one and ensures that the sum of the outputs is equal to one. As such, it gives us a probability distribution.
+
+Softmax is most commonly used with output layers of a neural network.
+ReLU (or Rectified Linear Unit) is the most widely used activation function. It gives an output of x if x is positive and zero otherwise.
+
+ReLU is most commonly used with hidden layers of a neural network.
+ 
+
+6) What is Gradient Descent?
+Gradient Descent is an optimization algorithm to minimize the cost function or to minimize an error. The aim is to find the local/global minima of a function. The algorithm determines the direction the model should take to reduce the error and also the magnitude (or extent) of movement.
+
+ 

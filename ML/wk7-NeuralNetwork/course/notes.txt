@@ -1,0 +1,7 @@
+https://www.tensorflow.org/
+https://medium.com/@subedibipin/boolean-algebra-and-logic-gates-58549f1a2578#:~:text=Logic%20gates%20are%20fundamental%20electronic,%2C%20%E2%80%9Con%20or%20off%E2%80%9D.
+https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html
+https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
+
+https://machinelearningmastery.com/multi-class-classification-tutorial-keras-deep-learning-library/
+

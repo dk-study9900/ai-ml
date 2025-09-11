@@ -1,0 +1,33 @@
+ Learning Objectives:
+
+Understand the basic concepts of overfitting, underfitting, and missing value imputation 
+Learn how to perform regularization, Over and Under-Sampling 
+Understand where and how this technique is used in the industry
+Structure of the Session
+
+Duration	Topic	Details
+5 Min 	Session structure	
+Discuss the learning objectives of the session. 
+25 min	Discussion of videos of 
+the week	
+Use the Discussion Questions to gauge the level of understanding of the learners on videos covered during the week and identify areas to focus on.
+10 min	EDA	
+Discussion of data cleaning, key observations, and insights from the EDA section.
+50 min	Hands-on 
+Case study 	
+Perform the techniques on the provided dataset to demonstrate topics covered in the week. 
+15 min	Industry Perspective	
+Discuss practical applications, exchange thoughts, and challenges around dealing with imbalanced data and overfitting. 
+Share experience (examples) of some real-life challenges involved in dealing with imbalanced data and overfitting while working on a project. 
+10 min 	Extended QnA	
+Discuss the doubts regarding the implementation, concepts, or any other relevant question where the group needs help. 
+5 min	Summarize the 
+session	
+In simple bullet points, cover the contents covered during the session 
+Important points to note:
+
+In the hands-on section, kindly do not spend more than 10-15 minutes on EDA. It is important that the focus stays on the implementation of the regularization, oversampling, and undersampling and not too much on the EDA section as it covers the concepts which are similar to the concepts discussed multiple times previously. We have noticed that if the plan is not followed the session exceeds the time limit.
+Log in for your session 5 min before and make sure you are ready with all the material to be used for the session. 
+Be well prepared for the session, ensure to watch all the videos, related codes, and datasets. (It renders the Mentored Learning session of no use if we are not completely prepared)
+Make sure to work on the practice case study before the session.
+ 
